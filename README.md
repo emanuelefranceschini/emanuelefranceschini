@@ -3,6 +3,7 @@
 ### Hey! :wave: I'm Emanuele Franceschini!
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-midnightblue?logo=GitHub)](https://emanuelefranceschini.github.io/) [![Portfolio Badge](https://img.shields.io/badge/LinkedIn-midnightblue?logo=LinkedIn)](https://emanuelefranceschini.github.io/) [![Portfolio Badge](https://img.shields.io/badge/@_Email-midnightblue?)](mailto:ef96work@gmail.com)
 <br>
+
 I'm a self taught Web Developer passionate about learning new technologies to bring amazing things into the world, with a strong attention to details and design as well as performance and functionality.
 My goal is using my creativity to help as many people as possible, and here are the core skills that will help me do that:
 
