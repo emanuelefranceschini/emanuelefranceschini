@@ -1,7 +1,7 @@
 [![Emanuele Franceschini's Banner](images/banner-gif.gif)](https://emanuelefranceschini.github.io/)
 
 ### Hey! :wave: I'm Emanuele Franceschini!
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-midnightblue?logo=GitHub)](https://emanuelefranceschini.github.io/) [![Portfolio Badge](https://img.shields.io/badge/LinkedIn-midnightblue?logo=LinkedIn)](https://emanuelefranceschini.github.io/) [![Portfolio Badge](https://img.shields.io/badge/@_Email-midnightblue?)](mailto:ef96work@gmail.com)  
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-midnightblue?logo=GitHub)](https://emanuelefranceschini.github.io/) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-midnightblue?logo=LinkedIn)](www.linkedin.com/in/emanuele-franceschini) [![Email Badge](https://img.shields.io/badge/@_Email-midnightblue?)](mailto:ef96work@gmail.com)  
 
 
 
